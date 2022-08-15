@@ -10,6 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{42DDAAAB-F23D-467F-A9EF-068CDAE095AD}"
 	ProjectSection(SolutionItems) = preProject
 		Additional.md = Additional.md
+		Conflict.md = Conflict.md
 	EndProjectSection
 EndProject
 Global
